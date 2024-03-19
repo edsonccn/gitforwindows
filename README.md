@@ -1,1 +1,2 @@
-# gitforwindows
+Learning about git  
+***
